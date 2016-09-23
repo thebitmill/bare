@@ -14,6 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^1.1.3",
+    "d3": "^4.2.6",
     "hirestime": "^2.1.0",
     "node-static": "^0.7.8"
   },
